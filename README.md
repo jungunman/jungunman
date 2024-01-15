@@ -1,6 +1,7 @@
-# I'm Lucas, React Front-End and Java Back-End Developer!😄
+
 <hr/>
 
+# I'm Lucas, React Front-End and Java Back-End Developer!😄
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jungunman/Fhit-counter&count_bg=%237DABDC&title_bg=%23E89090&icon=googlemaps.svg&icon_color=%23F4F4F4&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <hr/>
