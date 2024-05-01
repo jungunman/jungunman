@@ -6,9 +6,7 @@
 
 ###
 
-<div style="display: flex;
-    align-items: center;
-    justify-content: space-between;">
+<div align="center">
   <a href="https://github.com/jungunman">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jungunman&hide_title=true&show_icons=true&theme=nord" />
   </a>
