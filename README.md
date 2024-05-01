@@ -3,13 +3,15 @@
 
 <h3 align="center">🍳 Back Tech Stack 🍳</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/ES6-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TypeScript-005571?style=for-the-badge&logo=ts-node&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/NodeJS-11B48A?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Express-00599C?style=for-the-badge&logo=express&logoColor=white"/></a>&nbsp
-  <br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/spring%20security-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=fff">&nbsp
+  <img alt="Static Badge" src="https://img.shields.io/badge/JSON-%23000?style=for-the-badge&logo=json&logoColor=fff">&nbsp
+  <img alt="Static Badge" src="https://img.shields.io/badge/JWT-%23000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff">&nbsp
+  <br/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=fff">&nbsp
+  <img alt="Static Badge" src="https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=fff">&nbsp
+  <img alt="Static Badge" src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=fff">&nbsp
 </p>
 
 <h3 align="center">💽 DataBase Tech Stack 💽</h3>
@@ -21,9 +23,14 @@
 
 <h3 align="center">📺 Front Tech Stack 📺</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/ES6-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
+  <br/>
   <img src="https://img.shields.io/badge/React-005571?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TypeScript-005571?style=for-the-badge&logo=ts-node&logoColor=white"/></a>&nbsp
+  <img alt="Static Badge" src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=fff">&nbsp
+  <img alt="Static Badge" src="https://img.shields.io/badge/recoil-%233578E5?style=for-the-badge&logo=recoil&logoColor=fff">&nbsp
 </p>
 
 <h3 align="center">🛠 Tools 🛠</h3>
