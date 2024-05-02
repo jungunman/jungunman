@@ -18,7 +18,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MySql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Maria-00599C?style=for-the-badge&logo=mariadb&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/dbeaver-%23382923?style=for-the-badge&logo=dbeaver&logoColor=white"></a>&nbsp
 </p>
 
 <h3 align="center">📺 Front Tech Stack 📺</h3>
@@ -38,6 +37,7 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=for-the-badge&logo=EclipseIDE&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-333664?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/dbeaver-%23382923?style=for-the-badge&logo=dbeaver&logoColor=white"></a>&nbsp
 </p>
 
 <div align="center">
