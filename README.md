@@ -54,7 +54,7 @@
   </p>
   
   <div align="center">
-    ## 🌈 Follow me 🌈 <br>
+    <h3 align="center">🌈 Follow me 🌈</h3>
     <a href="mailto:jin02014@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF8383?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jin02014@gmail.com"/></a>
     <a href="mailto:jin02014@naver.com"><img src="https://img.shields.io/badge/Nmail-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=mailto:jin02014@naver.com"/></a>
     <a href="https://www.notion.so/API-0ad535e4694a4d3b85dec9dfedd59a82"><img src="https://img.shields.io/badge/notion-EAEAEA?style=for-the-badge&logo=notion&logoColor=black&link=https://www.notion.so/API-0ad535e4694a4d3b85dec9dfedd59a82"/></a>
