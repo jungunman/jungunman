@@ -21,10 +21,6 @@
     <img src="https://img.shields.io/badge/spring%20security-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=fff">&nbsp
     <img alt="Static Badge" src="https://img.shields.io/badge/JSON-%23000?style=for-the-badge&logo=json&logoColor=fff">&nbsp
     <img alt="Static Badge" src="https://img.shields.io/badge/JWT-%23000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff">&nbsp
-    <br/>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=fff">&nbsp
-    <img alt="Static Badge" src="https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=fff">&nbsp
-    <img alt="Static Badge" src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=fff">&nbsp
   </p>
   
   <h3 align="center">💽 DataBase Tech Stack 💽</h3>
