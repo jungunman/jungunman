@@ -9,7 +9,7 @@
   |내용|내가 원하는 사람과 즐겁게 <br/> 반려동물을 산책시켜 보세요!|작가를 응원하여 소설을 연재를<br/> 독려하고, 즐기세요!|제대로 경비 근무를 하는지 <br/> 편리하게 확인해보세요!|
   |Back 스택 요약|Spring Boot|Java|Java, Python|
   |Front 스택 요약|React, Typesciprt, Thymeleaf|JSP|JSP|
-  |보러 가기| <a href="https://github.com/jungunman/First-Project">Banzzac Front-End</a> <br/><a href="https://github.com/jungunman/Banzzac-Back">Banzzac Back-End</a>| <a href="https://github.com/jungunman/First-Project">1차 프로젝트</a> |<a href="https://github.com/jungunman/Second-Project">2차 프로젝트</a>|
+  |보러 가기| <a href="https://github.com/jungunman/Banzzac-Front">Banzzac Front-End</a> <br/><a href="https://github.com/jungunman/Banzzac-Back">Banzzac Back-End</a>| <a href="https://github.com/jungunman/First-Project">1차 프로젝트</a> |<a href="https://github.com/jungunman/Second-Project">2차 프로젝트</a>|
   
   
   
